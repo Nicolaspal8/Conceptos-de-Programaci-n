@@ -74,5 +74,11 @@ También suele definirse como la forma de interconectar componentes de hardware,
 44. - **Protocolo http y https** = 
 45. - **Template string** =
 46. - **TypeError** = Palabra mal escrita o no reconocida 
-47. - **Unicode** : Estándar universal de codificación de caracteres que se emplea para
+47. - **Unicode** = Estándar universal de codificación de caracteres que se emplea para
 admitir aquellos caracteres que no son compatibles con ASCII.
+49. - ** ** = 
+50. - ** ** = 
+51. - ** ** = 
+52. - ** ** = 
+53. - ** ** = 
+54. - ** ** = 
