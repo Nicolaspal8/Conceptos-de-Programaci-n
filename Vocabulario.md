@@ -79,6 +79,6 @@ admitir aquellos caracteres que no son compatibles con ASCII.
 49. - **PROMPT** = en una interfaz grafica que emula el comportamiento de una terminal se le conoce a la linea horizontal blanca parpadeante a la espera de ordenes
 50. - **Ficheros** = 
 51. - **Kernel** = El kernel es un programa que se encuentra en el nucleo del sistema operativo de un computador el cual generalmente tiene control sobre todo el sistema, siempre reside en la memoria y facilita la interaccion entre los componentes de hardware y sofware, es algo como un supervisor de todo nuestro sistema, el codigo critico del kernel generalmente funciona en un espacio de memoria aislado al resto para no ser afectado por procesos o sofware externo, es decir que tenemos el espacio de memoria del kernel y el espacio del usuario para separar y proteger al kernel de aplicaciones ejecutadas en el espacio de memoria del usuario como las aplicaciones del navegador o escritorio 
-52. - ** ** = 
-53. - ** ** = 
+52. - 
+53. - 
 54. - ** ** = 
