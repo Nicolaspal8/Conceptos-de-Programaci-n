@@ -78,4 +78,5 @@ admitir aquellos caracteres que no son compatibles con ASCII.
 53. - **Aplicacion** = 
 54. - **Programa** = 
 55. - **Sistema Operativo** = Un sistema Operativo es el que nos ofrece una interfaz para establecer una comunicacion con el hardware o dispositivo centrar de comunicacion del computador que estemos utilizando, se encargar de permitir el accesos a las propiedades que posee el hardware y ademas implementando propias, hoy en dia los sistemas operativos poseen una interfaz grafica o GUI para facilitar el uso del usuario pero en el pasado como con Ms-DOS la interfaz existente era como una CLI o interfaz de linea de comandos no muy intuitiva para cualquier persona 
-56. - **** =
+56. - **Funcionamiento de Hexadecimales** =
+57. - **bytes y su funcionamiento** = 
