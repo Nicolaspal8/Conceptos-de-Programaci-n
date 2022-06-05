@@ -80,3 +80,6 @@ admitir aquellos caracteres que no son compatibles con ASCII.
 55. - **Sistema Operativo** = Un sistema Operativo es el que nos ofrece una interfaz para establecer una comunicacion con el hardware o dispositivo centrar de comunicacion del computador que estemos utilizando, se encargar de permitir el accesos a las propiedades que posee el hardware y ademas implementando propias, hoy en dia los sistemas operativos poseen una interfaz grafica o GUI para facilitar el uso del usuario pero en el pasado como con Ms-DOS la interfaz existente era como una CLI o interfaz de linea de comandos no muy intuitiva para cualquier persona 
 56. - **Funcionamiento de Hexadecimales** =
 57. - **bytes y su funcionamiento** = 
+58. - **Puertos** = 
+59. - **Firewall** = El firewall es un sistema de seguridad implementado por los computadores o sistemas operativos el cual funciona como una capa de seguridad al acceso interno de nuestro sistema ya sea para acceder a un puerto o para crear una conexion con un sistema exterior
+
