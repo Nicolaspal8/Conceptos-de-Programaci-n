@@ -82,4 +82,4 @@ admitir aquellos caracteres que no son compatibles con ASCII.
 57. - **bytes y su funcionamiento** = 
 58. - **Puertos** = 
 59. - **Firewall** = El firewall es un sistema de seguridad implementado por los computadores o sistemas operativos el cual funciona como una capa de seguridad al acceso interno de nuestro sistema ya sea para acceder a un puerto o para crear una conexion con un sistema exterior
-
+60. **Socket** = 
